@@ -1,4 +1,4 @@
 # Ausbildung
 RBZ-TECHNIK
 
-Monte: [https://ximbirdy.github.io/Ausbildung/School/](https://ximbirdy.github.io/Ausbildung/Monte/)
+Monte: [https://ximbirdy.github.io/Ausbildung/Monte/](https://ximbirdy.github.io/Ausbildung/Monte/)
