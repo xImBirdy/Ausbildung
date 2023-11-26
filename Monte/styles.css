@@ -1,0 +1,68 @@
+body {
+    font-family: Calibri;
+    background-color: #1f1f1f;
+    color: white;
+    margin: 0;
+    padding: 0px;
+}
+
+header {
+    text-align: center;
+    background-color: #490000;
+    color: white;
+    padding: 20px 0;
+    box-shadow: 0px 0px 10px #141414;
+}
+
+.header-content,
+.footer-content,
+
+.about-me {
+    margin-bottom: 10px;
+}
+
+.content {
+    margin: auto;
+    width: 900px;
+    padding: 40px;
+    background-color: #3a3a3a;
+    box-shadow: 0px 0px 10px #141414;
+}
+
+.portfolio-images {
+    text-align: center;
+}
+
+.portfolio-images img {
+    height: 250px;
+    width: 430px;
+    display: inline-block;
+    margin: 5px;
+}
+
+a {
+    color: #ff2626;
+}
+
+a:hover {
+    text-decoration-line: underline;
+}
+
+iframe {
+
+    width: 100%;
+    height: 500px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #490000;
+    color: white;
+    box-shadow: 0px 0px 10px #141414;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
