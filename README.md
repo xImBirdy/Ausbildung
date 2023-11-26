@@ -1,4 +1,4 @@
 # Ausbildung
-RBZ-TECHNIK
+WALTHER-LEHMKUHL-SCHULE
 
 Monte: [https://ximbirdy.github.io/Ausbildung/Monte/](https://ximbirdy.github.io/Ausbildung/Monte/)
